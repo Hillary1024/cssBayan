@@ -1,0 +1,10 @@
+.img span{
+    visibility: hidden;
+    position: absolute;
+    color: black;
+    text-transform: uppercase;
+}
+.img:hover span{
+    visibility: visible;
+    color:blue;
+}
